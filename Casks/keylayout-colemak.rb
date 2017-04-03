@@ -7,6 +7,8 @@ cask 'keylayout-colemak' do
   homepage 'https://colemak.com'
   license :mit
 
+  container type: :naked
+
   artifact 'Colemak.keylayout', target: "#{ENV['HOME']}/Library/Keyboard Layouts/Colemak.keylayout"
 
   caveats do
