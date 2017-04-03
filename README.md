@@ -7,3 +7,4 @@
 ## Contents
 
 * Custom version of Input font
+* Colemak keyboard layout (as hardcoded artifact)
