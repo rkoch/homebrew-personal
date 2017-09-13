@@ -6,5 +6,7 @@ cask 'nautilus-lifeline' do
   name 'Nautilus Lifeline'
   homepage 'http://www.nautiluslifeline.com/'
 
+  auto_updates true
+
   app 'NautilusLifeline.app'
 end
