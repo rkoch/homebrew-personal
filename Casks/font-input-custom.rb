@@ -177,8 +177,7 @@ cask 'font-input-custom' do
   font 'Input_Fonts/InputSerif/InputSerifNarrow/InputSerifNarrow-Thin.ttf'
   font 'Input_Fonts/InputSerif/InputSerifNarrow/InputSerifNarrow-ThinItalic.ttf'
 
-  caveats do
-    <<-EOS.undent
+  caveats <<~EOS
     INPUT SETTINGS
 
     These fonts have been customized with the settings below. You can further customize
