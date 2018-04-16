@@ -199,5 +199,4 @@ cask 'font-input-custom' do
     #{caskroom_path}/#{version}/LICENSE.txt
     http://input.fontbureau.com/license/
     EOS
-  end
 end
