@@ -5,7 +5,6 @@ cask 'keylayout-colemak' do
   url 'https://colemak.com/pub/mac/Colemak.keylayout'
   name 'Colemak'
   homepage 'https://colemak.com'
-  license :mit
 
   container type: :naked
 
