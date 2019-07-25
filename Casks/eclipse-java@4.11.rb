@@ -1,4 +1,4 @@
-cask 'eclipse-java' do
+cask 'eclipse-java@4.11' do
   version '4.11.0,2019-03:R'
   sha256 'a021a89742cda1933acd7d69c06d85224f40f604264155e86ac264b59c27326b'
 
