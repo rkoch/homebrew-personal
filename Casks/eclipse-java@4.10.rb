@@ -7,5 +7,5 @@ cask 'eclipse-java@4.10' do
   homepage 'https://eclipse.org/'
 
   # Renamed to avoid conflict with other Eclipse.
-  app 'Eclipse.app', target: 'Eclipse Java.app'
+  app 'Eclipse.app', target: 'Eclipse Java 4.10.app'
 end
